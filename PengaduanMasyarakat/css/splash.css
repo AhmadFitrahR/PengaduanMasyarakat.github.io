@@ -1,0 +1,44 @@
+body{
+    width: auto;
+    height: auto;
+}
+
+.splashleft{
+    background: rgb(135,134,135);
+	background: linear-gradient(90deg, rgba(135,134,135,1) 0%, rgba(255,255,255,1) 98%, rgba(255,255,255,1) 100%);
+    width: 50%;
+    height: 105%;
+    float: left;
+}
+
+.splashleft img{
+    display: block;
+    width: auto;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.splashright{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.splashtext{
+    text-align: center;
+    margin-top: 15%;
+}
+
+.splashtext h1{
+    font-weight: bold;
+}
+
+.splashlogin{
+    margin-top: 10%;
+}
+
+.splashform{
+    margin: auto;
+    padding: 0px 50px 0px 50px;
+}
